@@ -1,1 +1,1 @@
-http://not-your-hotspot.local.:8080/text.txt
+http://not-your-hotspot.local.:8080/url.txt
